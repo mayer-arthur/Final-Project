@@ -1,0 +1,381 @@
+Matchday,Home,Away,HG_sim,AG_sim,HomePts,AwayPts,Played
+1,Girona FC,Rayo Vallecano,1.0,3.0,0,3,True
+1,Villarreal CF,Real Oviedo,2.0,0.0,3,0,True
+1,RCD Mallorca,FC Barcelona,0.0,3.0,0,3,True
+1,Deportivo Alavés,Levante UD,2.0,1.0,3,0,True
+1,Valencia CF,Real Sociedad,1.0,1.0,1,1,True
+1,RC Celta,Getafe CF,0.0,2.0,0,3,True
+1,Athletic Club,Sevilla FC,3.0,2.0,3,0,True
+1,RCD Espanyol,Atlético de Madrid,2.0,1.0,3,0,True
+1,Elche CF,Real Betis,1.0,1.0,1,1,True
+1,Real Madrid,CA Osasuna,1.0,0.0,3,0,True
+2,Real Betis,Deportivo Alavés,1.0,0.0,3,0,True
+2,RCD Mallorca,RC Celta,1.0,1.0,1,1,True
+2,Atlético de Madrid,Elche CF,1.0,1.0,1,1,True
+2,Levante UD,FC Barcelona,2.0,3.0,0,3,True
+2,CA Osasuna,Valencia CF,1.0,0.0,3,0,True
+2,Real Sociedad,RCD Espanyol,2.0,2.0,1,1,True
+2,Villarreal CF,Girona FC,5.0,0.0,3,0,True
+2,Real Oviedo,Real Madrid,0.0,3.0,0,3,True
+2,Athletic Club,Rayo Vallecano,1.0,0.0,3,0,True
+2,Sevilla FC,Getafe CF,1.0,2.0,0,3,True
+3,RC Celta,Real Betis,1.0,1.0,1,1,True
+3,Elche CF,Levante UD,2.0,0.0,3,0,True
+3,Valencia CF,Getafe CF,3.0,0.0,3,0,True
+3,Deportivo Alavés,Atlético de Madrid,1.0,1.0,1,1,True
+3,Real Oviedo,Real Sociedad,1.0,0.0,3,0,True
+3,Girona FC,Sevilla FC,0.0,2.0,0,3,True
+3,Real Madrid,RCD Mallorca,2.0,1.0,3,0,True
+3,RC Celta,Villarreal CF,1.0,1.0,1,1,True
+3,Real Betis,Athletic Club,1.0,2.0,0,3,True
+3,RCD Espanyol,CA Osasuna,1.0,0.0,3,0,True
+4,Rayo Vallecano,FC Barcelona,1.0,1.0,1,1,True
+4,Sevilla FC,Elche CF,2.0,2.0,1,1,True
+4,Getafe CF,Real Oviedo,2.0,0.0,3,0,True
+4,Real Sociedad,Real Madrid,1.0,2.0,0,3,True
+4,Athletic Club,Deportivo Alavés,0.0,1.0,0,3,True
+4,Atlético de Madrid,Villarreal CF,2.0,0.0,3,0,True
+4,RC Celta,Girona FC,1.0,1.0,1,1,True
+4,Levante UD,Real Betis,2.0,2.0,1,1,True
+4,CA Osasuna,Rayo Vallecano,2.0,0.0,3,0,True
+4,FC Barcelona,Valencia CF,6.0,0.0,3,0,True
+5,RCD Espanyol,RCD Mallorca,3.0,2.0,3,0,True
+5,Real Betis,Real Sociedad,3.0,1.0,3,0,True
+5,Girona FC,Levante UD,0.0,4.0,0,3,True
+5,Real Madrid,RCD Espanyol,2.0,0.0,3,0,True
+5,Deportivo Alavés,Sevilla FC,1.0,2.0,0,3,True
+5,Villarreal CF,CA Osasuna,2.0,1.0,3,0,True
+5,Valencia CF,Athletic Club,2.0,0.0,3,0,True
+5,Rayo Vallecano,RC Celta,1.0,1.0,1,1,True
+5,RCD Mallorca,Atlético de Madrid,1.0,1.0,1,1,True
+5,Elche CF,Real Oviedo,1.0,0.0,3,0,True
+6,FC Barcelona,Getafe CF,3.0,0.0,3,0,True
+6,Athletic Club,Girona FC,1.0,1.0,1,1,True
+6,RCD Espanyol,Valencia CF,2.0,2.0,1,1,True
+6,Levante UD,Real Madrid,1.0,4.0,0,3,True
+6,Sevilla FC,Villarreal CF,1.0,2.0,0,3,True
+6,Getafe CF,Deportivo Alavés,1.0,1.0,1,1,True
+6,Atlético de Madrid,Rayo Vallecano,3.0,2.0,3,0,True
+6,Real Sociedad,RCD Mallorca,1.0,0.0,3,0,True
+6,CA Osasuna,Elche CF,1.0,1.0,1,1,True
+6,Real Oviedo,FC Barcelona,1.0,3.0,0,3,True
+7,Girona FC,RCD Espanyol,0.0,0.0,1,1,True
+7,Getafe CF,Levante UD,1.0,1.0,1,1,True
+7,Atlético de Madrid,Real Madrid,5.0,2.0,3,0,True
+7,RCD Mallorca,Deportivo Alavés,1.0,0.0,3,0,True
+7,Villarreal CF,Athletic Club,1.0,0.0,3,0,True
+7,Rayo Vallecano,Sevilla FC,0.0,1.0,0,3,True
+7,Elche CF,RC Celta,2.0,1.0,3,0,True
+7,FC Barcelona,Real Sociedad,2.0,1.0,3,0,True
+7,Real Betis,CA Osasuna,2.0,0.0,3,0,True
+7,Valencia CF,Real Oviedo,1.0,2.0,0,3,True
+8,CA Osasuna,Getafe CF,2.0,1.0,3,0,True
+8,Real Oviedo,Levante UD,0.0,2.0,0,3,True
+8,Girona FC,Valencia CF,2.0,1.0,3,0,True
+8,Athletic Club,RCD Mallorca,2.0,1.0,3,0,True
+8,Real Madrid,Villarreal CF,3.0,1.0,3,0,True
+8,Deportivo Alavés,Elche CF,3.0,1.0,3,0,True
+8,Sevilla FC,FC Barcelona,4.0,1.0,3,0,True
+8,RCD Espanyol,Real Betis,1.0,2.0,0,3,True
+8,Real Sociedad,Rayo Vallecano,0.0,1.0,0,3,True
+8,RC Celta,Atlético de Madrid,1.0,1.0,1,1,True
+9,Real Oviedo,RCD Espanyol,0.0,2.0,0,3,True
+9,Sevilla FC,RCD Mallorca,1.0,3.0,0,3,True
+9,FC Barcelona,Girona FC,2.0,1.0,3,0,True
+9,Villarreal CF,Real Betis,2.0,2.0,1,1,True
+9,Atlético de Madrid,CA Osasuna,1.0,0.0,3,0,True
+9,Elche CF,Athletic Club,0.0,0.0,1,1,True
+9,RC Celta,Real Sociedad,1.0,1.0,1,1,True
+9,Levante UD,Rayo Vallecano,0.0,3.0,0,3,True
+9,Getafe CF,Real Madrid,0.0,1.0,0,3,True
+9,Deportivo Alavés,Valencia CF,0.0,0.0,1,1,True
+10,Real Sociedad,Sevilla FC,2.0,1.0,3,0,True
+10,Girona FC,Real Oviedo,3.0,3.0,1,1,True
+10,RCD Espanyol,Elche CF,1.0,0.0,3,0,True
+10,Athletic Club,Getafe CF,0.0,1.0,0,3,True
+10,Valencia CF,Villarreal CF,0.0,2.0,0,3,True
+10,RCD Mallorca,Levante UD,1.0,1.0,1,1,True
+10,Real Madrid,FC Barcelona,2.0,1.0,3,0,True
+10,CA Osasuna,RC Celta,2.0,3.0,0,3,True
+10,Rayo Vallecano,Deportivo Alavés,1.0,0.0,3,0,True
+10,Real Betis,Atlético de Madrid,0.0,2.0,0,3,True
+11,Getafe CF,Girona FC,2.0,1.0,3,0,True
+11,Villarreal CF,Rayo Vallecano,4.0,0.0,3,0,True
+11,Atlético de Madrid,Sevilla FC,3.0,0.0,3,0,True
+11,Real Sociedad,Athletic Club,3.0,2.0,3,0,True
+11,Real Madrid,Valencia CF,4.0,0.0,3,0,True
+11,Levante UD,RC Celta,1.0,2.0,0,3,True
+11,Deportivo Alavés,RCD Espanyol,2.0,1.0,3,0,True
+11,FC Barcelona,Elche CF,3.0,1.0,3,0,True
+11,Real Betis,RCD Mallorca,3.0,0.0,3,0,True
+11,Real Oviedo,CA Osasuna,0.0,0.0,1,1,True
+12,Elche CF,Real Sociedad,1.0,1.0,1,1,True
+12,Girona FC,Deportivo Alavés,1.0,0.0,3,0,True
+12,Sevilla FC,CA Osasuna,1.0,0.0,3,0,True
+12,Atlético de Madrid,Levante UD,3.0,1.0,3,0,True
+12,RCD Espanyol,Villarreal CF,0.0,2.0,0,3,True
+12,Athletic Club,Real Oviedo,1.0,0.0,3,0,True
+12,Rayo Vallecano,Real Madrid,0.0,0.0,1,1,True
+12,RCD Mallorca,Getafe CF,1.0,0.0,3,0,True
+12,Valencia CF,Real Betis,1.0,1.0,1,1,True
+12,RC Celta,FC Barcelona,2.0,4.0,0,3,True
+13,Valencia CF,Levante UD,2.0,2.0,1,1,False
+13,Deportivo Alavés,RC Celta,0.0,0.0,1,1,False
+13,FC Barcelona,Athletic Club,2.0,1.0,3,0,False
+13,CA Osasuna,Real Sociedad,0.0,5.0,0,3,False
+13,Villarreal CF,RCD Mallorca,1.0,2.0,0,3,False
+13,Real Oviedo,Rayo Vallecano,1.0,2.0,0,3,False
+13,Real Betis,Girona FC,2.0,1.0,3,0,False
+13,Getafe CF,Atlético de Madrid,0.0,0.0,1,1,False
+13,Elche CF,Real Madrid,1.0,2.0,0,3,False
+13,RCD Espanyol,Sevilla FC,0.0,3.0,0,3,False
+14,Getafe CF,Elche CF,0.0,1.0,0,3,False
+14,RCD Mallorca,CA Osasuna,1.0,0.0,3,0,False
+14,FC Barcelona,Deportivo Alavés,3.0,0.0,3,0,False
+14,Levante UD,Athletic Club,2.0,2.0,1,1,False
+14,Atlético de Madrid,Real Oviedo,1.0,2.0,0,3,False
+14,Real Sociedad,Villarreal CF,0.0,2.0,0,3,False
+14,Sevilla FC,Real Betis,0.0,2.0,0,3,False
+14,RC Celta,RCD Espanyol,1.0,2.0,0,3,False
+14,Girona FC,Real Madrid,0.0,2.0,0,3,False
+14,Rayo Vallecano,Valencia CF,0.0,0.0,1,1,False
+15,FC Barcelona,Atlético de Madrid,3.0,1.0,3,0,False
+15,Athletic Club,Real Madrid,2.0,1.0,3,0,False
+15,Real Oviedo,RCD Mallorca,1.0,1.0,1,1,False
+15,Villarreal CF,Getafe CF,3.0,0.0,3,0,False
+15,Deportivo Alavés,Real Sociedad,1.0,1.0,1,1,False
+15,Real Betis,FC Barcelona,1.0,2.0,0,3,False
+15,Athletic Club,Atlético de Madrid,0.0,1.0,0,3,False
+15,Elche CF,Girona FC,0.0,1.0,0,3,False
+15,Valencia CF,Sevilla FC,1.0,0.0,3,0,False
+15,RCD Espanyol,Rayo Vallecano,1.0,1.0,1,1,False
+16,Real Madrid,RC Celta,2.0,2.0,1,1,False
+16,CA Osasuna,Levante UD,3.0,0.0,3,0,False
+16,Atlético de Madrid,Valencia CF,2.0,1.0,3,0,False
+16,Deportivo Alavés,Real Madrid,1.0,3.0,0,3,False
+16,FC Barcelona,CA Osasuna,4.0,0.0,3,0,False
+16,Getafe CF,RCD Espanyol,2.0,0.0,3,0,False
+17,Levante UD,Villarreal CF,5.0,3.0,3,0,False
+16,RC Celta,Athletic Club,0.0,2.0,0,3,False
+17,RCD Mallorca,Elche CF,0.0,2.0,0,3,False
+16,Rayo Vallecano,Real Betis,0.0,5.0,0,3,False
+16,Real Sociedad,Girona FC,0.0,2.0,0,3,False
+16,Sevilla FC,Real Oviedo,0.0,0.0,1,1,False
+17,Athletic Club,RCD Espanyol,0.0,0.0,1,1,False
+17,CA Osasuna,Deportivo Alavés,1.0,0.0,3,0,False
+18,Elche CF,Rayo Vallecano,2.0,2.0,1,1,False
+17,Girona FC,Atlético de Madrid,2.0,2.0,1,1,False
+17,Levante UD,Real Sociedad,1.0,0.0,3,0,False
+17,Real Betis,Getafe CF,6.0,2.0,3,0,False
+17,Real Madrid,Sevilla FC,2.0,2.0,1,1,False
+17,Real Oviedo,RC Celta,0.0,1.0,0,3,False
+17,Valencia CF,RCD Mallorca,2.0,0.0,3,0,False
+18,Villarreal CF,FC Barcelona,4.0,0.0,3,0,False
+18,CA Osasuna,Athletic Club,2.0,1.0,3,0,False
+19,Deportivo Alavés,Real Oviedo,0.0,0.0,1,1,False
+18,Elche CF,Villarreal CF,2.0,1.0,3,0,False
+18,RC Celta,Valencia CF,1.0,2.0,0,3,False
+18,RCD Espanyol,FC Barcelona,1.0,3.0,0,3,False
+18,RCD Mallorca,Girona FC,2.0,0.0,3,0,False
+18,Rayo Vallecano,Getafe CF,1.0,0.0,3,0,False
+18,Real Madrid,Real Betis,1.0,2.0,0,3,False
+18,Real Sociedad,Atlético de Madrid,1.0,0.0,3,0,False
+19,Sevilla FC,Levante UD,0.0,0.0,1,1,False
+19,Getafe CF,Real Sociedad,2.0,1.0,3,0,False
+19,Girona FC,CA Osasuna,0.0,0.0,1,1,False
+19,Levante UD,RCD Espanyol,2.0,3.0,0,3,False
+19,Rayo Vallecano,RCD Mallorca,3.0,3.0,1,1,False
+19,Real Oviedo,Real Betis,4.0,0.0,3,0,False
+19,Sevilla FC,RC Celta,2.0,2.0,1,1,False
+19,Valencia CF,Elche CF,1.0,1.0,1,1,False
+19,Villarreal CF,Deportivo Alavés,3.0,3.0,1,1,False
+20,Atlético de Madrid,Deportivo Alavés,4.0,0.0,3,0,False
+20,CA Osasuna,Real Oviedo,2.0,2.0,1,1,False
+20,Elche CF,Sevilla FC,1.0,2.0,0,3,False
+20,Getafe CF,Valencia CF,3.0,1.0,3,0,False
+20,RC Celta,Rayo Vallecano,0.0,0.0,1,1,False
+20,RCD Espanyol,Girona FC,1.0,1.0,1,1,False
+20,RCD Mallorca,Athletic Club,1.0,1.0,1,1,False
+20,Real Betis,Villarreal CF,1.0,1.0,1,1,False
+20,Real Madrid,Levante UD,2.0,2.0,1,1,False
+20,Real Sociedad,FC Barcelona,2.0,1.0,3,0,False
+21,Atlético de Madrid,RCD Mallorca,0.0,2.0,0,3,False
+21,Deportivo Alavés,Real Betis,0.0,0.0,1,1,False
+21,FC Barcelona,Real Oviedo,1.0,1.0,1,1,False
+21,Girona FC,Getafe CF,2.0,3.0,0,3,False
+21,Levante UD,Elche CF,0.0,0.0,1,1,False
+21,Rayo Vallecano,CA Osasuna,1.0,3.0,0,3,False
+21,Real Sociedad,RC Celta,2.0,0.0,3,0,False
+21,Sevilla FC,Athletic Club,1.0,2.0,0,3,False
+21,Valencia CF,RCD Espanyol,1.0,1.0,1,1,False
+21,Villarreal CF,Real Madrid,1.0,2.0,0,3,False
+22,Athletic Club,Real Sociedad,2.0,1.0,3,0,False
+22,CA Osasuna,Villarreal CF,1.0,2.0,0,3,False
+22,Elche CF,FC Barcelona,2.0,5.0,0,3,False
+22,Getafe CF,RC Celta,2.0,0.0,3,0,False
+22,Levante UD,Atlético de Madrid,1.0,1.0,1,1,False
+22,RCD Espanyol,Deportivo Alavés,3.0,2.0,3,0,False
+22,RCD Mallorca,Sevilla FC,4.0,0.0,3,0,False
+22,Real Betis,Valencia CF,1.0,0.0,3,0,False
+22,Real Madrid,Rayo Vallecano,1.0,2.0,0,3,False
+22,Real Oviedo,Girona FC,1.0,0.0,3,0,False
+23,Athletic Club,Levante UD,0.0,1.0,0,3,False
+23,Atlético de Madrid,Real Betis,0.0,2.0,0,3,False
+23,Deportivo Alavés,Getafe CF,1.0,0.0,3,0,False
+23,FC Barcelona,RCD Mallorca,2.0,2.0,1,1,False
+23,RC Celta,CA Osasuna,1.0,0.0,3,0,False
+23,Rayo Vallecano,Real Oviedo,5.0,1.0,3,0,False
+23,Real Sociedad,Elche CF,0.0,0.0,1,1,False
+23,Sevilla FC,Girona FC,1.0,2.0,0,3,False
+23,Valencia CF,Real Madrid,1.0,0.0,3,0,False
+23,Villarreal CF,RCD Espanyol,3.0,0.0,3,0,False
+24,Elche CF,CA Osasuna,1.0,1.0,1,1,False
+24,Getafe CF,Villarreal CF,1.0,1.0,1,1,False
+24,Girona FC,FC Barcelona,0.0,1.0,0,3,False
+24,Levante UD,Valencia CF,2.0,3.0,0,3,False
+24,RCD Espanyol,RC Celta,2.0,1.0,3,0,False
+24,RCD Mallorca,Real Betis,0.0,2.0,0,3,False
+24,Rayo Vallecano,Atlético de Madrid,1.0,3.0,0,3,False
+24,Real Madrid,Real Sociedad,2.0,1.0,3,0,False
+24,Real Oviedo,Athletic Club,1.0,2.0,0,3,False
+24,Sevilla FC,Deportivo Alavés,0.0,1.0,0,3,False
+25,Athletic Club,Elche CF,2.0,2.0,1,1,False
+25,Atlético de Madrid,RCD Espanyol,2.0,0.0,3,0,False
+25,CA Osasuna,Real Madrid,2.0,2.0,1,1,False
+25,Deportivo Alavés,Girona FC,0.0,1.0,0,3,False
+25,FC Barcelona,Levante UD,1.0,0.0,3,0,False
+25,Getafe CF,Sevilla FC,1.0,0.0,3,0,False
+25,RC Celta,RCD Mallorca,0.0,0.0,1,1,False
+25,Real Betis,Rayo Vallecano,1.0,1.0,1,1,False
+25,Real Sociedad,Real Oviedo,0.0,2.0,0,3,False
+25,Villarreal CF,Valencia CF,2.0,1.0,3,0,False
+26,Elche CF,RCD Espanyol,3.0,0.0,3,0,False
+26,FC Barcelona,Villarreal CF,1.0,0.0,3,0,False
+26,Girona FC,RC Celta,1.0,3.0,0,3,False
+26,Levante UD,Deportivo Alavés,2.0,0.0,3,0,False
+26,RCD Mallorca,Real Sociedad,1.0,1.0,1,1,False
+26,Rayo Vallecano,Athletic Club,0.0,1.0,0,3,False
+26,Real Betis,Sevilla FC,3.0,0.0,3,0,False
+26,Real Madrid,Getafe CF,4.0,0.0,3,0,False
+26,Real Oviedo,Atlético de Madrid,0.0,3.0,0,3,False
+26,Valencia CF,CA Osasuna,1.0,0.0,3,0,False
+27,Athletic Club,FC Barcelona,2.0,0.0,3,0,False
+27,Atlético de Madrid,Real Sociedad,2.0,0.0,3,0,False
+27,CA Osasuna,RCD Mallorca,2.0,0.0,3,0,False
+27,Getafe CF,Real Betis,1.0,2.0,0,3,False
+27,Levante UD,Girona FC,2.0,1.0,3,0,False
+27,RC Celta,Real Madrid,3.0,1.0,3,0,False
+27,RCD Espanyol,Real Oviedo,4.0,2.0,3,0,False
+27,Sevilla FC,Rayo Vallecano,2.0,1.0,3,0,False
+27,Valencia CF,Deportivo Alavés,1.0,4.0,0,3,False
+27,Villarreal CF,Elche CF,0.0,1.0,0,3,False
+28,Atlético de Madrid,Getafe CF,0.0,1.0,0,3,False
+28,Deportivo Alavés,Villarreal CF,2.0,1.0,3,0,False
+28,FC Barcelona,Sevilla FC,3.0,3.0,1,1,False
+28,Girona FC,Athletic Club,0.0,1.0,0,3,False
+28,RCD Mallorca,RCD Espanyol,1.0,2.0,0,3,False
+28,Rayo Vallecano,Levante UD,1.0,2.0,0,3,False
+28,Real Betis,RC Celta,5.0,1.0,3,0,False
+28,Real Madrid,Elche CF,0.0,0.0,1,1,False
+28,Real Oviedo,Valencia CF,2.0,1.0,3,0,False
+28,Real Sociedad,CA Osasuna,0.0,2.0,0,3,False
+29,Athletic Club,Real Betis,0.0,0.0,1,1,False
+29,CA Osasuna,Girona FC,2.0,0.0,3,0,False
+29,Elche CF,RCD Mallorca,1.0,0.0,3,0,False
+29,FC Barcelona,Rayo Vallecano,5.0,2.0,3,0,False
+29,Levante UD,Real Oviedo,2.0,1.0,3,0,False
+29,RC Celta,Deportivo Alavés,0.0,0.0,1,1,False
+29,RCD Espanyol,Getafe CF,0.0,0.0,1,1,False
+29,Real Madrid,Atlético de Madrid,2.0,0.0,3,0,False
+29,Sevilla FC,Valencia CF,0.0,0.0,1,1,False
+29,Villarreal CF,Real Sociedad,1.0,2.0,0,3,False
+30,Atlético de Madrid,FC Barcelona,1.0,0.0,3,0,False
+30,Deportivo Alavés,CA Osasuna,0.0,1.0,0,3,False
+30,Getafe CF,Athletic Club,0.0,1.0,0,3,False
+30,Girona FC,Villarreal CF,1.0,1.0,1,1,False
+30,RCD Mallorca,Real Madrid,1.0,1.0,1,1,False
+30,Rayo Vallecano,Elche CF,0.0,2.0,0,3,False
+30,Real Betis,RCD Espanyol,2.0,0.0,3,0,False
+30,Real Oviedo,Sevilla FC,2.0,3.0,0,3,False
+30,Real Sociedad,Levante UD,3.0,1.0,3,0,False
+30,Valencia CF,RC Celta,0.0,2.0,0,3,False
+31,Athletic Club,Villarreal CF,3.0,2.0,3,0,False
+31,CA Osasuna,Real Betis,3.0,0.0,3,0,False
+31,Elche CF,Valencia CF,2.0,1.0,3,0,False
+31,FC Barcelona,RCD Espanyol,1.0,0.0,3,0,False
+31,Levante UD,Getafe CF,1.0,0.0,3,0,False
+31,RC Celta,Real Oviedo,1.0,0.0,3,0,False
+31,RCD Mallorca,Rayo Vallecano,0.0,0.0,1,1,False
+31,Real Madrid,Girona FC,2.0,1.0,3,0,False
+31,Real Sociedad,Deportivo Alavés,2.0,2.0,1,1,False
+31,Sevilla FC,Atlético de Madrid,0.0,0.0,1,1,False
+32,Atlético de Madrid,Athletic Club,2.0,1.0,3,0,False
+32,CA Osasuna,Sevilla FC,0.0,3.0,0,3,False
+32,Deportivo Alavés,RCD Mallorca,0.0,0.0,1,1,False
+32,Getafe CF,FC Barcelona,0.0,2.0,0,3,False
+32,RCD Espanyol,Levante UD,1.0,1.0,1,1,False
+32,Rayo Vallecano,Real Sociedad,0.0,1.0,0,3,False
+32,Real Betis,Real Madrid,2.0,4.0,0,3,False
+32,Real Oviedo,Elche CF,4.0,1.0,3,0,False
+32,Valencia CF,Girona FC,2.0,2.0,1,1,False
+32,Villarreal CF,RC Celta,1.0,2.0,0,3,False
+33,Athletic Club,CA Osasuna,2.0,1.0,3,0,False
+33,Elche CF,Atlético de Madrid,1.0,1.0,1,1,False
+33,FC Barcelona,RC Celta,2.0,4.0,0,3,False
+33,Girona FC,Real Betis,1.0,1.0,1,1,False
+33,Levante UD,Sevilla FC,0.0,4.0,0,3,False
+33,RCD Mallorca,Valencia CF,2.0,0.0,3,0,False
+33,Rayo Vallecano,RCD Espanyol,3.0,0.0,3,0,False
+33,Real Madrid,Deportivo Alavés,2.0,2.0,1,1,False
+33,Real Oviedo,Villarreal CF,0.0,1.0,0,3,False
+33,Real Sociedad,Getafe CF,0.0,0.0,1,1,False
+34,CA Osasuna,FC Barcelona,0.0,4.0,0,3,False
+34,Deportivo Alavés,Athletic Club,1.0,1.0,1,1,False
+34,Getafe CF,Rayo Vallecano,0.0,0.0,1,1,False
+34,Girona FC,RCD Mallorca,1.0,0.0,3,0,False
+34,RC Celta,Elche CF,0.0,1.0,0,3,False
+34,RCD Espanyol,Real Madrid,0.0,1.0,0,3,False
+34,Real Betis,Real Oviedo,1.0,0.0,3,0,False
+34,Sevilla FC,Real Sociedad,3.0,1.0,3,0,False
+34,Valencia CF,Atlético de Madrid,2.0,0.0,3,0,False
+34,Villarreal CF,Levante UD,2.0,1.0,3,0,False
+35,Athletic Club,Valencia CF,3.0,2.0,3,0,False
+35,Atlético de Madrid,RC Celta,2.0,2.0,1,1,False
+35,Elche CF,Deportivo Alavés,1.0,3.0,0,3,False
+35,FC Barcelona,Real Madrid,0.0,1.0,0,3,False
+35,Levante UD,CA Osasuna,2.0,1.0,3,0,False
+35,RCD Mallorca,Villarreal CF,2.0,2.0,1,1,False
+35,Rayo Vallecano,Girona FC,2.0,0.0,3,0,False
+35,Real Oviedo,Getafe CF,2.0,0.0,3,0,False
+35,Real Sociedad,Real Betis,1.0,2.0,0,3,False
+35,Sevilla FC,RCD Espanyol,0.0,1.0,0,3,False
+36,CA Osasuna,Atlético de Madrid,1.0,1.0,1,1,False
+36,Deportivo Alavés,FC Barcelona,0.0,3.0,0,3,False
+36,Getafe CF,RCD Mallorca,1.0,1.0,1,1,False
+36,Girona FC,Real Sociedad,3.0,1.0,3,0,False
+36,RC Celta,Levante UD,3.0,0.0,3,0,False
+36,RCD Espanyol,Athletic Club,1.0,0.0,3,0,False
+36,Real Betis,Elche CF,1.0,2.0,0,3,False
+36,Real Madrid,Real Oviedo,2.0,0.0,3,0,False
+36,Valencia CF,Rayo Vallecano,1.0,0.0,3,0,False
+36,Villarreal CF,Sevilla FC,0.0,1.0,0,3,False
+37,Athletic Club,RC Celta,2.0,2.0,1,1,False
+37,Atlético de Madrid,Girona FC,2.0,0.0,3,0,False
+37,CA Osasuna,RCD Espanyol,1.0,1.0,1,1,False
+37,Elche CF,Getafe CF,1.0,2.0,0,3,False
+37,FC Barcelona,Real Betis,2.0,2.0,1,1,False
+37,Levante UD,RCD Mallorca,3.0,0.0,3,0,False
+37,Rayo Vallecano,Villarreal CF,1.0,0.0,3,0,False
+37,Real Oviedo,Deportivo Alavés,1.0,1.0,1,1,False
+37,Real Sociedad,Valencia CF,1.0,1.0,1,1,False
+37,Sevilla FC,Real Madrid,0.0,1.0,0,3,False
+38,Deportivo Alavés,Rayo Vallecano,1.0,0.0,3,0,False
+38,Getafe CF,CA Osasuna,0.0,2.0,0,3,False
+38,Girona FC,Elche CF,3.0,1.0,3,0,False
+38,RC Celta,Sevilla FC,3.0,0.0,3,0,False
+38,RCD Espanyol,Real Sociedad,2.0,2.0,1,1,False
+38,RCD Mallorca,Real Oviedo,0.0,2.0,0,3,False
+38,Real Betis,Levante UD,0.0,0.0,1,1,False
+38,Real Madrid,Athletic Club,2.0,1.0,3,0,False
+38,Valencia CF,FC Barcelona,1.0,2.0,0,3,False
+38,Villarreal CF,Atlético de Madrid,0.0,0.0,1,1,False

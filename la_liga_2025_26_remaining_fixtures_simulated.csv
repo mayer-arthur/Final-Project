@@ -1,0 +1,261 @@
+Match Day,Match Date (UTC),Home Team,Away Team,SimHomeGoal,SimAwayGoal,Status
+13,2025-11-21,Valencia CF,Levante UD,2.0,1.0,SCHEDULED
+13,2025-11-22,CA Osasuna,Real Sociedad,1.0,0.0,SCHEDULED
+13,2025-11-22,Deportivo Alavés,RC Celta,0.0,0.0,SCHEDULED
+13,2025-11-22,FC Barcelona,Athletic Club,3.0,1.0,SCHEDULED
+13,2025-11-22,Villarreal CF,RCD Mallorca,1.0,0.0,SCHEDULED
+13,2025-11-23,Elche CF,Real Madrid,1.0,1.0,SCHEDULED
+13,2025-11-23,Getafe CF,Atlético de Madrid,1.0,0.0,SCHEDULED
+13,2025-11-23,Real Betis,Girona FC,1.0,0.0,SCHEDULED
+13,2025-11-23,Real Oviedo,Rayo Vallecano,0.0,1.0,SCHEDULED
+13,2025-11-24,RCD Espanyol,Sevilla FC,0.0,3.0,SCHEDULED
+14,2025-11-28,Getafe CF,Elche CF,0.0,1.0,SCHEDULED
+14,2025-11-29,Atlético de Madrid,Real Oviedo,6.0,0.0,SCHEDULED
+14,2025-11-29,FC Barcelona,Deportivo Alavés,0.0,1.0,SCHEDULED
+14,2025-11-29,Levante UD,Athletic Club,1.0,2.0,SCHEDULED
+14,2025-11-29,RCD Mallorca,CA Osasuna,0.0,0.0,SCHEDULED
+14,2025-11-30,Girona FC,Real Madrid,1.0,2.0,SCHEDULED
+14,2025-11-30,RC Celta,RCD Espanyol,1.0,0.0,SCHEDULED
+14,2025-11-30,Real Sociedad,Villarreal CF,0.0,0.0,SCHEDULED
+14,2025-11-30,Sevilla FC,Real Betis,1.0,1.0,SCHEDULED
+14,2025-12-01,Rayo Vallecano,Valencia CF,0.0,0.0,SCHEDULED
+15,2025-12-02,FC Barcelona,Atlético de Madrid,3.0,0.0,SCHEDULED
+15,2025-12-03,Athletic Club,Real Madrid,0.0,1.0,SCHEDULED
+15,2025-12-05,Real Oviedo,RCD Mallorca,0.0,0.0,SCHEDULED
+15,2025-12-06,Athletic Club,Atlético de Madrid,1.0,0.0,SCHEDULED
+15,2025-12-06,Deportivo Alavés,Real Sociedad,2.0,0.0,SCHEDULED
+15,2025-12-06,Real Betis,FC Barcelona,3.0,0.0,SCHEDULED
+15,2025-12-06,Villarreal CF,Getafe CF,1.0,0.0,SCHEDULED
+15,2025-12-07,Elche CF,Girona FC,0.0,0.0,SCHEDULED
+15,2025-12-07,RCD Espanyol,Rayo Vallecano,1.0,0.0,SCHEDULED
+15,2025-12-07,Valencia CF,Sevilla FC,1.0,0.0,SCHEDULED
+16,2025-12-07,Real Madrid,RC Celta,2.0,0.0,SCHEDULED
+16,2025-12-08,CA Osasuna,Levante UD,0.0,3.0,SCHEDULED
+16,2025-12-14,Atlético de Madrid,Valencia CF,3.0,0.0,SCHEDULED
+16,2025-12-14,Deportivo Alavés,Real Madrid,1.0,0.0,SCHEDULED
+16,2025-12-14,FC Barcelona,CA Osasuna,1.0,0.0,SCHEDULED
+16,2025-12-14,Getafe CF,RCD Espanyol,1.0,0.0,SCHEDULED
+16,2025-12-14,RC Celta,Athletic Club,2.0,0.0,SCHEDULED
+16,2025-12-14,Rayo Vallecano,Real Betis,1.0,0.0,SCHEDULED
+16,2025-12-14,Real Sociedad,Girona FC,0.0,0.0,SCHEDULED
+16,2025-12-14,Sevilla FC,Real Oviedo,1.0,0.0,SCHEDULED
+17,2025-12-14,Levante UD,Villarreal CF,1.0,0.0,SCHEDULED
+17,2025-12-14,RCD Mallorca,Elche CF,2.0,1.0,SCHEDULED
+17,2025-12-21,Athletic Club,RCD Espanyol,1.0,0.0,SCHEDULED
+17,2025-12-21,CA Osasuna,Deportivo Alavés,2.0,0.0,SCHEDULED
+17,2025-12-21,Girona FC,Atlético de Madrid,2.0,0.0,SCHEDULED
+17,2025-12-21,Levante UD,Real Sociedad,2.0,0.0,SCHEDULED
+17,2025-12-21,Real Betis,Getafe CF,2.0,0.0,SCHEDULED
+17,2025-12-21,Real Madrid,Sevilla FC,2.0,0.0,SCHEDULED
+17,2025-12-21,Real Oviedo,RC Celta,2.0,0.0,SCHEDULED
+17,2025-12-21,Valencia CF,RCD Mallorca,0.0,2.0,SCHEDULED
+18,2025-12-21,Elche CF,Rayo Vallecano,1.0,1.0,SCHEDULED
+18,2025-12-21,Villarreal CF,FC Barcelona,3.0,0.0,SCHEDULED
+18,2026-01-04,CA Osasuna,Athletic Club,0.0,2.0,SCHEDULED
+18,2026-01-04,Elche CF,Villarreal CF,1.0,0.0,SCHEDULED
+18,2026-01-04,RC Celta,Valencia CF,2.0,0.0,SCHEDULED
+18,2026-01-04,RCD Espanyol,FC Barcelona,1.0,0.0,SCHEDULED
+18,2026-01-04,RCD Mallorca,Girona FC,2.0,0.0,SCHEDULED
+18,2026-01-04,Rayo Vallecano,Getafe CF,1.0,0.0,SCHEDULED
+18,2026-01-04,Real Madrid,Real Betis,4.0,0.0,SCHEDULED
+18,2026-01-04,Real Sociedad,Atlético de Madrid,0.0,0.0,SCHEDULED
+19,2026-01-04,Deportivo Alavés,Real Oviedo,1.0,3.0,SCHEDULED
+19,2026-01-04,Sevilla FC,Levante UD,0.0,1.0,SCHEDULED
+19,2026-01-11,Getafe CF,Real Sociedad,3.0,0.0,SCHEDULED
+19,2026-01-11,Girona FC,CA Osasuna,1.0,0.0,SCHEDULED
+19,2026-01-11,Levante UD,RCD Espanyol,1.0,1.0,SCHEDULED
+19,2026-01-11,Rayo Vallecano,RCD Mallorca,4.0,1.0,SCHEDULED
+19,2026-01-11,Real Oviedo,Real Betis,3.0,1.0,SCHEDULED
+19,2026-01-11,Sevilla FC,RC Celta,1.0,0.0,SCHEDULED
+19,2026-01-11,Valencia CF,Elche CF,3.0,2.0,SCHEDULED
+19,2026-01-11,Villarreal CF,Deportivo Alavés,4.0,0.0,SCHEDULED
+20,2026-01-18,Atlético de Madrid,Deportivo Alavés,4.0,0.0,SCHEDULED
+20,2026-01-18,CA Osasuna,Real Oviedo,4.0,1.0,SCHEDULED
+20,2026-01-18,Elche CF,Sevilla FC,1.0,0.0,SCHEDULED
+20,2026-01-18,Getafe CF,Valencia CF,0.0,0.0,SCHEDULED
+20,2026-01-18,RC Celta,Rayo Vallecano,1.0,0.0,SCHEDULED
+20,2026-01-18,RCD Espanyol,Girona FC,0.0,0.0,SCHEDULED
+20,2026-01-18,RCD Mallorca,Athletic Club,1.0,0.0,SCHEDULED
+20,2026-01-18,Real Betis,Villarreal CF,2.0,0.0,SCHEDULED
+20,2026-01-18,Real Madrid,Levante UD,0.0,0.0,SCHEDULED
+20,2026-01-18,Real Sociedad,FC Barcelona,1.0,1.0,SCHEDULED
+21,2026-01-25,Atlético de Madrid,RCD Mallorca,3.0,0.0,SCHEDULED
+21,2026-01-25,Deportivo Alavés,Real Betis,1.0,0.0,SCHEDULED
+21,2026-01-25,FC Barcelona,Real Oviedo,4.0,0.0,SCHEDULED
+21,2026-01-25,Girona FC,Getafe CF,0.0,0.0,SCHEDULED
+21,2026-01-25,Levante UD,Elche CF,2.0,4.0,SCHEDULED
+21,2026-01-25,Rayo Vallecano,CA Osasuna,0.0,0.0,SCHEDULED
+21,2026-01-25,Real Sociedad,RC Celta,1.0,0.0,SCHEDULED
+21,2026-01-25,Sevilla FC,Athletic Club,0.0,0.0,SCHEDULED
+21,2026-01-25,Valencia CF,RCD Espanyol,3.0,0.0,SCHEDULED
+21,2026-01-25,Villarreal CF,Real Madrid,1.0,0.0,SCHEDULED
+22,2026-02-01,Athletic Club,Real Sociedad,2.0,0.0,SCHEDULED
+22,2026-02-01,CA Osasuna,Villarreal CF,2.0,1.0,SCHEDULED
+22,2026-02-01,Elche CF,FC Barcelona,0.0,0.0,SCHEDULED
+22,2026-02-01,Getafe CF,RC Celta,1.0,0.0,SCHEDULED
+22,2026-02-01,Levante UD,Atlético de Madrid,2.0,2.0,SCHEDULED
+22,2026-02-01,RCD Espanyol,Deportivo Alavés,4.0,0.0,SCHEDULED
+22,2026-02-01,RCD Mallorca,Sevilla FC,0.0,0.0,SCHEDULED
+22,2026-02-01,Real Betis,Valencia CF,0.0,0.0,SCHEDULED
+22,2026-02-01,Real Madrid,Rayo Vallecano,0.0,0.0,SCHEDULED
+22,2026-02-01,Real Oviedo,Girona FC,1.0,1.0,SCHEDULED
+23,2026-02-08,Athletic Club,Levante UD,0.0,2.0,SCHEDULED
+23,2026-02-08,Atlético de Madrid,Real Betis,3.0,1.0,SCHEDULED
+23,2026-02-08,Deportivo Alavés,Getafe CF,2.0,1.0,SCHEDULED
+23,2026-02-08,FC Barcelona,RCD Mallorca,5.0,1.0,SCHEDULED
+23,2026-02-08,RC Celta,CA Osasuna,2.0,0.0,SCHEDULED
+23,2026-02-08,Rayo Vallecano,Real Oviedo,0.0,1.0,SCHEDULED
+23,2026-02-08,Real Sociedad,Elche CF,3.0,1.0,SCHEDULED
+23,2026-02-08,Sevilla FC,Girona FC,1.0,0.0,SCHEDULED
+23,2026-02-08,Valencia CF,Real Madrid,3.0,0.0,SCHEDULED
+23,2026-02-08,Villarreal CF,RCD Espanyol,0.0,0.0,SCHEDULED
+24,2026-02-15,Elche CF,CA Osasuna,2.0,0.0,SCHEDULED
+24,2026-02-15,Getafe CF,Villarreal CF,0.0,1.0,SCHEDULED
+24,2026-02-15,Girona FC,FC Barcelona,0.0,0.0,SCHEDULED
+24,2026-02-15,Levante UD,Valencia CF,1.0,2.0,SCHEDULED
+24,2026-02-15,RCD Espanyol,RC Celta,0.0,1.0,SCHEDULED
+24,2026-02-15,RCD Mallorca,Real Betis,2.0,2.0,SCHEDULED
+24,2026-02-15,Rayo Vallecano,Atlético de Madrid,0.0,0.0,SCHEDULED
+24,2026-02-15,Real Madrid,Real Sociedad,3.0,0.0,SCHEDULED
+24,2026-02-15,Real Oviedo,Athletic Club,0.0,1.0,SCHEDULED
+24,2026-02-15,Sevilla FC,Deportivo Alavés,0.0,0.0,SCHEDULED
+25,2026-02-22,Athletic Club,Elche CF,4.0,0.0,SCHEDULED
+25,2026-02-22,Atlético de Madrid,RCD Espanyol,3.0,1.0,SCHEDULED
+25,2026-02-22,CA Osasuna,Real Madrid,3.0,0.0,SCHEDULED
+25,2026-02-22,Deportivo Alavés,Girona FC,3.0,0.0,SCHEDULED
+25,2026-02-22,FC Barcelona,Levante UD,3.0,0.0,SCHEDULED
+25,2026-02-22,Getafe CF,Sevilla FC,3.0,0.0,SCHEDULED
+25,2026-02-22,RC Celta,RCD Mallorca,0.0,0.0,SCHEDULED
+25,2026-02-22,Real Betis,Rayo Vallecano,1.0,0.0,SCHEDULED
+25,2026-02-22,Real Sociedad,Real Oviedo,4.0,2.0,SCHEDULED
+25,2026-02-22,Villarreal CF,Valencia CF,7.0,0.0,SCHEDULED
+26,2026-03-01,Elche CF,RCD Espanyol,0.0,0.0,SCHEDULED
+26,2026-03-01,FC Barcelona,Villarreal CF,2.0,0.0,SCHEDULED
+26,2026-03-01,Girona FC,RC Celta,4.0,0.0,SCHEDULED
+26,2026-03-01,Levante UD,Deportivo Alavés,1.0,8.0,SCHEDULED
+26,2026-03-01,RCD Mallorca,Real Sociedad,1.0,1.0,SCHEDULED
+26,2026-03-01,Rayo Vallecano,Athletic Club,0.0,0.0,SCHEDULED
+26,2026-03-01,Real Betis,Sevilla FC,2.0,0.0,SCHEDULED
+26,2026-03-01,Real Madrid,Getafe CF,3.0,0.0,SCHEDULED
+26,2026-03-01,Real Oviedo,Atlético de Madrid,1.0,1.0,SCHEDULED
+26,2026-03-01,Valencia CF,CA Osasuna,0.0,0.0,SCHEDULED
+27,2026-03-08,Athletic Club,FC Barcelona,2.0,0.0,SCHEDULED
+27,2026-03-08,Atlético de Madrid,Real Sociedad,0.0,0.0,SCHEDULED
+27,2026-03-08,CA Osasuna,RCD Mallorca,2.0,1.0,SCHEDULED
+27,2026-03-08,Getafe CF,Real Betis,2.0,0.0,SCHEDULED
+27,2026-03-08,Levante UD,Girona FC,2.0,2.0,SCHEDULED
+27,2026-03-08,RC Celta,Real Madrid,2.0,0.0,SCHEDULED
+27,2026-03-08,RCD Espanyol,Real Oviedo,1.0,0.0,SCHEDULED
+27,2026-03-08,Sevilla FC,Rayo Vallecano,0.0,0.0,SCHEDULED
+27,2026-03-08,Valencia CF,Deportivo Alavés,0.0,0.0,SCHEDULED
+27,2026-03-08,Villarreal CF,Elche CF,1.0,0.0,SCHEDULED
+28,2026-03-15,Atlético de Madrid,Getafe CF,3.0,0.0,SCHEDULED
+28,2026-03-15,Deportivo Alavés,Villarreal CF,0.0,0.0,SCHEDULED
+28,2026-03-15,FC Barcelona,Sevilla FC,1.0,0.0,SCHEDULED
+28,2026-03-15,Girona FC,Athletic Club,0.0,0.0,SCHEDULED
+28,2026-03-15,RCD Mallorca,RCD Espanyol,0.0,0.0,SCHEDULED
+28,2026-03-15,Rayo Vallecano,Levante UD,2.0,2.0,SCHEDULED
+28,2026-03-15,Real Betis,RC Celta,2.0,0.0,SCHEDULED
+28,2026-03-15,Real Madrid,Elche CF,2.0,0.0,SCHEDULED
+28,2026-03-15,Real Oviedo,Valencia CF,1.0,1.0,SCHEDULED
+28,2026-03-15,Real Sociedad,CA Osasuna,2.0,0.0,SCHEDULED
+29,2026-03-22,Athletic Club,Real Betis,3.0,0.0,SCHEDULED
+29,2026-03-22,CA Osasuna,Girona FC,2.0,0.0,SCHEDULED
+29,2026-03-22,Elche CF,RCD Mallorca,1.0,0.0,SCHEDULED
+29,2026-03-22,FC Barcelona,Rayo Vallecano,1.0,0.0,SCHEDULED
+29,2026-03-22,Levante UD,Real Oviedo,4.0,0.0,SCHEDULED
+29,2026-03-22,RC Celta,Deportivo Alavés,2.0,0.0,SCHEDULED
+29,2026-03-22,RCD Espanyol,Getafe CF,0.0,0.0,SCHEDULED
+29,2026-03-22,Real Madrid,Atlético de Madrid,2.0,0.0,SCHEDULED
+29,2026-03-22,Sevilla FC,Valencia CF,2.0,0.0,SCHEDULED
+29,2026-03-22,Villarreal CF,Real Sociedad,0.0,0.0,SCHEDULED
+30,2026-04-05,Atlético de Madrid,FC Barcelona,0.0,0.0,SCHEDULED
+30,2026-04-05,Deportivo Alavés,CA Osasuna,0.0,0.0,SCHEDULED
+30,2026-04-05,Getafe CF,Athletic Club,1.0,0.0,SCHEDULED
+30,2026-04-05,Girona FC,Villarreal CF,2.0,0.0,SCHEDULED
+30,2026-04-05,RCD Mallorca,Real Madrid,3.0,0.0,SCHEDULED
+30,2026-04-05,Rayo Vallecano,Elche CF,3.0,0.0,SCHEDULED
+30,2026-04-05,Real Betis,RCD Espanyol,1.0,0.0,SCHEDULED
+30,2026-04-05,Real Oviedo,Sevilla FC,1.0,0.0,SCHEDULED
+30,2026-04-05,Real Sociedad,Levante UD,0.0,1.0,SCHEDULED
+30,2026-04-05,Valencia CF,RC Celta,1.0,0.0,SCHEDULED
+31,2026-04-12,Athletic Club,Villarreal CF,1.0,0.0,SCHEDULED
+31,2026-04-12,CA Osasuna,Real Betis,0.0,0.0,SCHEDULED
+31,2026-04-12,Elche CF,Valencia CF,3.0,0.0,SCHEDULED
+31,2026-04-12,FC Barcelona,RCD Espanyol,3.0,0.0,SCHEDULED
+31,2026-04-12,Levante UD,Getafe CF,3.0,2.0,SCHEDULED
+31,2026-04-12,RC Celta,Real Oviedo,0.0,1.0,SCHEDULED
+31,2026-04-12,RCD Mallorca,Rayo Vallecano,1.0,1.0,SCHEDULED
+31,2026-04-12,Real Madrid,Girona FC,1.0,0.0,SCHEDULED
+31,2026-04-12,Real Sociedad,Deportivo Alavés,2.0,1.0,SCHEDULED
+31,2026-04-12,Sevilla FC,Atlético de Madrid,1.0,0.0,SCHEDULED
+32,2026-04-19,Atlético de Madrid,Athletic Club,1.0,0.0,SCHEDULED
+32,2026-04-19,CA Osasuna,Sevilla FC,1.0,1.0,SCHEDULED
+32,2026-04-19,Deportivo Alavés,RCD Mallorca,2.0,0.0,SCHEDULED
+32,2026-04-19,Getafe CF,FC Barcelona,2.0,0.0,SCHEDULED
+32,2026-04-19,RCD Espanyol,Levante UD,2.0,2.0,SCHEDULED
+32,2026-04-19,Rayo Vallecano,Real Sociedad,1.0,0.0,SCHEDULED
+32,2026-04-19,Real Betis,Real Madrid,0.0,0.0,SCHEDULED
+32,2026-04-19,Real Oviedo,Elche CF,2.0,1.0,SCHEDULED
+32,2026-04-19,Valencia CF,Girona FC,1.0,0.0,SCHEDULED
+32,2026-04-19,Villarreal CF,RC Celta,1.0,0.0,SCHEDULED
+33,2026-04-22,Athletic Club,CA Osasuna,3.0,0.0,SCHEDULED
+33,2026-04-22,Elche CF,Atlético de Madrid,0.0,0.0,SCHEDULED
+33,2026-04-22,FC Barcelona,RC Celta,3.0,0.0,SCHEDULED
+33,2026-04-22,Girona FC,Real Betis,1.0,0.0,SCHEDULED
+33,2026-04-22,Levante UD,Sevilla FC,2.0,6.0,SCHEDULED
+33,2026-04-22,RCD Mallorca,Valencia CF,2.0,0.0,SCHEDULED
+33,2026-04-22,Rayo Vallecano,RCD Espanyol,3.0,1.0,SCHEDULED
+33,2026-04-22,Real Madrid,Deportivo Alavés,0.0,1.0,SCHEDULED
+33,2026-04-22,Real Oviedo,Villarreal CF,1.0,1.0,SCHEDULED
+33,2026-04-22,Real Sociedad,Getafe CF,1.0,0.0,SCHEDULED
+34,2026-05-03,CA Osasuna,FC Barcelona,1.0,0.0,SCHEDULED
+34,2026-05-03,Deportivo Alavés,Athletic Club,1.0,0.0,SCHEDULED
+34,2026-05-03,Getafe CF,Rayo Vallecano,1.0,0.0,SCHEDULED
+34,2026-05-03,Girona FC,RCD Mallorca,1.0,0.0,SCHEDULED
+34,2026-05-03,RC Celta,Elche CF,2.0,0.0,SCHEDULED
+34,2026-05-03,RCD Espanyol,Real Madrid,2.0,1.0,SCHEDULED
+34,2026-05-03,Real Betis,Real Oviedo,1.0,0.0,SCHEDULED
+34,2026-05-03,Sevilla FC,Real Sociedad,0.0,1.0,SCHEDULED
+34,2026-05-03,Valencia CF,Atlético de Madrid,1.0,0.0,SCHEDULED
+34,2026-05-03,Villarreal CF,Levante UD,2.0,0.0,SCHEDULED
+35,2026-05-10,Athletic Club,Valencia CF,0.0,0.0,SCHEDULED
+35,2026-05-10,Atlético de Madrid,RC Celta,1.0,1.0,SCHEDULED
+35,2026-05-10,Elche CF,Deportivo Alavés,1.0,0.0,SCHEDULED
+35,2026-05-10,FC Barcelona,Real Madrid,1.0,0.0,SCHEDULED
+35,2026-05-10,Levante UD,CA Osasuna,3.0,2.0,SCHEDULED
+35,2026-05-10,RCD Mallorca,Villarreal CF,0.0,0.0,SCHEDULED
+35,2026-05-10,Rayo Vallecano,Girona FC,1.0,0.0,SCHEDULED
+35,2026-05-10,Real Oviedo,Getafe CF,0.0,1.0,SCHEDULED
+35,2026-05-10,Real Sociedad,Real Betis,0.0,1.0,SCHEDULED
+35,2026-05-10,Sevilla FC,RCD Espanyol,1.0,0.0,SCHEDULED
+36,2026-05-13,CA Osasuna,Atlético de Madrid,0.0,0.0,SCHEDULED
+36,2026-05-13,Deportivo Alavés,FC Barcelona,2.0,1.0,SCHEDULED
+36,2026-05-13,Getafe CF,RCD Mallorca,0.0,1.0,SCHEDULED
+36,2026-05-13,Girona FC,Real Sociedad,0.0,0.0,SCHEDULED
+36,2026-05-13,RC Celta,Levante UD,0.0,0.0,SCHEDULED
+36,2026-05-13,RCD Espanyol,Athletic Club,1.0,1.0,SCHEDULED
+36,2026-05-13,Real Betis,Elche CF,1.0,0.0,SCHEDULED
+36,2026-05-13,Real Madrid,Real Oviedo,2.0,0.0,SCHEDULED
+36,2026-05-13,Valencia CF,Rayo Vallecano,1.0,0.0,SCHEDULED
+36,2026-05-13,Villarreal CF,Sevilla FC,2.0,1.0,SCHEDULED
+37,2026-05-17,Athletic Club,RC Celta,3.0,0.0,SCHEDULED
+37,2026-05-17,Atlético de Madrid,Girona FC,2.0,0.0,SCHEDULED
+37,2026-05-17,CA Osasuna,RCD Espanyol,3.0,0.0,SCHEDULED
+37,2026-05-17,Elche CF,Getafe CF,0.0,1.0,SCHEDULED
+37,2026-05-17,FC Barcelona,Real Betis,2.0,0.0,SCHEDULED
+37,2026-05-17,Levante UD,RCD Mallorca,1.0,0.0,SCHEDULED
+37,2026-05-17,Rayo Vallecano,Villarreal CF,0.0,2.0,SCHEDULED
+37,2026-05-17,Real Oviedo,Deportivo Alavés,1.0,0.0,SCHEDULED
+37,2026-05-17,Real Sociedad,Valencia CF,2.0,0.0,SCHEDULED
+37,2026-05-17,Sevilla FC,Real Madrid,0.0,0.0,SCHEDULED
+38,2026-05-24,Deportivo Alavés,Rayo Vallecano,1.0,0.0,SCHEDULED
+38,2026-05-24,Getafe CF,CA Osasuna,0.0,0.0,SCHEDULED
+38,2026-05-24,Girona FC,Elche CF,1.0,1.0,SCHEDULED
+38,2026-05-24,RC Celta,Sevilla FC,2.0,2.0,SCHEDULED
+38,2026-05-24,RCD Espanyol,Real Sociedad,0.0,0.0,SCHEDULED
+38,2026-05-24,RCD Mallorca,Real Oviedo,1.0,0.0,SCHEDULED
+38,2026-05-24,Real Betis,Levante UD,1.0,1.0,SCHEDULED
+38,2026-05-24,Real Madrid,Athletic Club,0.0,0.0,SCHEDULED
+38,2026-05-24,Valencia CF,FC Barcelona,2.0,0.0,SCHEDULED
+38,2026-05-24,Villarreal CF,Atlético de Madrid,3.0,0.0,SCHEDULED
